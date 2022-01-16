@@ -4,5 +4,5 @@ made with nodeJs in order crack login pannels, you can use a wordlist like rocky
 The tool will try to enumerate the username in case the default one has changed but its not 100% sure!
 
 # Usage 
-![usage](https://raw.githubusercontent.com/Edd13Mora/SKYWALK3R/main/usage.png?token=GHSAT0AAAAAABO4PQAONUCMEGCBNTD6GGE2YPNYUUQ)
+![usage](https://raw.githubusercontent.com/Edd13Mora/SKYWALK3R/main/usage.png?token=GHSAT0AAAAAABO4PQAOO3N2UGHCZBPP2K54YPNYWWQ)
 
