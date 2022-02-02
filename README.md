@@ -5,4 +5,4 @@ The tool will try to enumerate the username in case the default one has changed 
 
 # Usage 
 You will need to give 2 args [targer/theplace_where_wordpress_is_installed] and the wordlist file.
-![usage](https://raw.githubusercontent.com/Edd13Mora/SKYWALK3R/main/usage.png?token=GHSAT0AAAAAABO4PQAOO3N2UGHCZBPP2K54YPNYWWQ)
+![usage](https://raw.githubusercontent.com/Edd13Mora/SKYWALK3R/main/usage.png?token=GHSAT0AAAAAABO4PQAPQEBQEFEDEWYZMMOGYQD7D2A)
