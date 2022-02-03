@@ -9,6 +9,8 @@ You will need to give 2 args [targer/theplace_where_wordpress_is_installed] and 
 
 ![usage](https://raw.githubusercontent.com/Edd13Mora/SKYWALK3R/main/usage.png?token=GHSAT0AAAAAABO4PQAPQEBQEFEDEWYZMMOGYQD7D2A)
 
+<h2 id="credits"> :scroll: Demo</h2>
+
 ![Demo](https://raw.githubusercontent.com/Edd13Mora/SKYWALK3R/main/demo.png?token=GHSAT0AAAAAABO4PQAO4EOUNIKKMFLMSQ2MYQELIJQ)
 
 <h2 id="about-the-project"> :pencil: You may also want to use my MoroccanRockyou wordlist</h2> </br>
