@@ -23,6 +23,7 @@ You will need to give 2 args [targer/theplace_where_wordpress_is_installed] and 
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
   &nbsp; 
   &nbsp;
+  </br>
   <img src="https://media3.giphy.com/media/ORjfgiG9ZtxcQQwZzv/giphy.gif?cid=790b761134cd47ea62be09fae79a1b5265c38917777e0e5c&rid=giphy.gif&ct=gA" alt="Hehe Boi"/>
 </p> 
 
