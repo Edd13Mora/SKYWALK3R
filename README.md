@@ -19,9 +19,7 @@ You will need to give 2 args [targer/theplace_where_wordpress_is_installed] and 
 </p>
 
 <p align="center">
-  
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddiemora/)
-
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddiemora/)
 </p>
 
 <p align="center">
