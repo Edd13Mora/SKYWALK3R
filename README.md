@@ -19,6 +19,10 @@ You will need to give 2 args [targer/theplace_where_wordpress_is_installed] and 
 </p>
 
 <p align="center">
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddiemora/)
+</p>
+
+<p align="center">
   <img src="https://media3.giphy.com/media/ORjfgiG9ZtxcQQwZzv/giphy.gif?cid=790b761134cd47ea62be09fae79a1b5265c38917777e0e5c&rid=giphy.gif&ct=gA" alt="Hehe Boi"/>
 </p>
 
