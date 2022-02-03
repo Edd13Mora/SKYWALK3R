@@ -13,6 +13,14 @@ You will need to give 2 args [targer/theplace_where_wordpress_is_installed] and 
 
 [Check it Here](https://github.com/Edd13Mora/MoroccanRockyou)
 
+<h2 id="about-the-project"> :pencil: In case you wanna secure your wordpress website make sure to check this!</h2> </br>
+<p align="center">
+  <img src="https://media-exp1.licdn.com/dms/image/C4D22AQHAv8CbE1HaNQ/feedshare-shrink_1280/0/1642752919715?e=1646870400&v=beta&t=wpPbRKqExeJhLRJKl3Z7MHquMMdXLAjkS3wMJijrUdQ"/>
+</p>
+
 <p align="center">
   <img src="https://media3.giphy.com/media/ORjfgiG9ZtxcQQwZzv/giphy.gif?cid=790b761134cd47ea62be09fae79a1b5265c38917777e0e5c&rid=giphy.gif&ct=gA" alt="Hehe Boi"/>
 </p>
+
+
+
